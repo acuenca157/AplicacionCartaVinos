@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Carta Vinos</string>
+    <string name="labelId">ID:</string>
+    <string name="labelGraduacion">Graduacion</string>
+    <string name="labelFecha">Fecha</string>
+    <string name="labelOrigen">Origen</string>
+    <string name="labelColor">Color</string>
+    <string name="labelBodega">Bodega</string>
+    <string name="labelNombre">Nombre</string>
+    <string name="btnCrearVino">Crear Vino</string>
+    <string name="fileName">vinos.csv</string>
+    <string name="tmpFileName">tmp.csv</string>
+    <string name="alertOption">OK</string>
+</resources>
